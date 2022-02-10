@@ -12,6 +12,7 @@ body {
 }
 .row {
   height: 15vh;
+  margin-bottom: 3rem;
 }
 
 img {
